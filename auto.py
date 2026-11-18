@@ -13,9 +13,9 @@ TEMPLATE_HTML = """<!DOCTYPE html>
     <link rel="apple-touch-icon" href="/images/favicon.png">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Play {GAME_NAME} | GN-Math Unblocked Games</title>
-    <meta name="description" content="Play {GAME_NAME} unblocked on GN-Math - No downloads required! Enjoy this fun HTML5 game at school or work with our fast, secure gaming platform.">
-    <meta name="keywords" content="{GAME_NAME}, {GAME_NAME} unblocked, play {GAME_NAME}, free {GAME_NAME}, html5 games, unblocked games, school games, no flash games">
+    <title>Play {GAME_NAME} | paosidjfiojeioasfasd</title>
+    <meta name="description" content="Play {GAME_NAME} unblocked on 13rafasf - No downloads required! Enjoy this fun HTML5 game at school or work with our fast, secure gaming platform.">
+    <meta name="keywords" content="{GAME_NAME}, {GAME_NAME} asfdae, play {GAME_NAME}, free {GAME_NAME}, html5 games, asdfasdf games, school games, no flash games">
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
